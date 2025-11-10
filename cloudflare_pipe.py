@@ -2,6 +2,7 @@
 title: Cloudflare Workers AI Pipe
 author: dotcomdudee
 author_url: https://github.com/dotcomdudee
+funding_url: https://github.com/dotcomdudee
 date: 2025-11-05
 version: 3.0
 license: MIT

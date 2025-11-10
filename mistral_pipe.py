@@ -2,6 +2,7 @@
 title: Mistral AI Pipe
 author: dotcomdudee
 author_url: https://github.com/dotcomdudee
+funding_url: https://github.com/dotcomdudee
 date: 2025-01-06
 version: 1.0
 license: MIT
